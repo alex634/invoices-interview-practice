@@ -7,6 +7,7 @@ The sole purpose was to practice JavaScript and ReactJS before an interview.
 
 
 **Frontend:** ReactJS + MUI
+
 **Backend:** Express.js
 
 All data is stored in memory. Restarting the backend will erase all invoices.
