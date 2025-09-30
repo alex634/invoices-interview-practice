@@ -3,7 +3,8 @@
 A simple website for logging invoices. This should absolutely not be used in production.
 The sole purpose was to practice JavaScript and ReactJS before an interview.
 
-![Invoices](https://github.com/user-attachments/assets/07158298-38e5-49cc-80ef-5a0263381fce)
+![Invoices](https://github.com/user-attachments/assets/23e57492-73d9-4c6a-812e-17f473e6291c)
+
 
 **Frontend:** ReactJS + MUI
 **Backend:** Express.js
